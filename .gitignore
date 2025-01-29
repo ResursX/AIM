@@ -1,6 +1,9 @@
 .vs/*
 *.pyc
+*.pkl
+*.pkl.xz
 Lab3/data/*
 Lab4/data/*
 Lab5/data/*
 Lab6/data/*
+Lab8/data/*

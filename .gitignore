@@ -2,6 +2,7 @@
 *.pyc
 *.pkl
 *.pkl.xz
+Lab1/data/*
 Lab3/data/*
 Lab4/data/*
 Lab5/data/*
